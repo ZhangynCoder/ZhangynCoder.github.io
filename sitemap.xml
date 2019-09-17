@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/floder/index.html</loc>
+    
+    <lastmod>2019-09-17T09:33:41.926Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/09/17/myFirst/</loc>
+    
+    <lastmod>2019-09-17T09:27:44.363Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/09/17/hello-world/</loc>
+    
+    <lastmod>2019-09-17T08:31:00.768Z</lastmod>
+    
+  </url>
+  
+</urlset>
