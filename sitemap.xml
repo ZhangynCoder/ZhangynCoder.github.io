@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://www.zhangyn.vip/tags/index.html</loc>
+    
+    <lastmod>2019-09-18T02:18:27.883Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.zhangyn.vip/categories/index.html</loc>
     
     <lastmod>2019-09-18T02:08:16.379Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2019-09-18T02:07:41.801Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/404.html</loc>
+    <loc>http://www.zhangyn.vip/404.html</loc>
     
     <lastmod>2019-09-17T10:10:17.644Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/floder/index.html</loc>
+    <loc>http://www.zhangyn.vip/floder/index.html</loc>
     
     <lastmod>2019-09-17T09:33:41.926Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/09/17/myFirst/</loc>
+    <loc>http://www.zhangyn.vip/myFirst/</loc>
     
     <lastmod>2019-09-17T09:27:44.363Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/09/17/hello-world/</loc>
+    <loc>http://www.zhangyn.vip/hello-world/</loc>
     
     <lastmod>2019-09-17T08:31:00.768Z</lastmod>
     

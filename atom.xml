@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Zhangyn&#39;s blog</title>
   
-  
+  <subtitle>Stay Hungry, Stay Foolish</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.zhangyn.vip/"/>
   <updated>2019-09-17T09:27:44.363Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.zhangyn.vip/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Zhangyn</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>myFirst</title>
-    <link href="http://yoursite.com/2019/09/17/myFirst/"/>
-    <id>http://yoursite.com/2019/09/17/myFirst/</id>
+    <link href="http://www.zhangyn.vip/myFirst/"/>
+    <id>http://www.zhangyn.vip/myFirst/</id>
     <published>2019-09-17T09:27:44.000Z</published>
     <updated>2019-09-17T09:27:44.363Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/17/hello-world/"/>
-    <id>http://yoursite.com/2019/09/17/hello-world/</id>
+    <link href="http://www.zhangyn.vip/hello-world/"/>
+    <id>http://www.zhangyn.vip/hello-world/</id>
     <published>2019-09-17T08:31:00.768Z</published>
     <updated>2019-09-17T08:31:00.768Z</updated>
     
